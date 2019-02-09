@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tp1</string>
+    <string name="title_activity_btn_profil">ActivityBtnProfil</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
